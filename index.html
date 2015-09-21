@@ -1,24 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>outpark</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="style.css" rel="stylesheet">
-</head>
-<body>
-<ul class='window sublime'>
-  <li><span class='green' style="color:#5AE897">Name:</span> Seongsoon Park</li>
-  <li><span class='green' style="color:#5AE897">Age:</span> 23</li>
-  <li><span class='green' style="color:#5AE897">Job:</span> Student</li>
-  <li><span class='green' style="color:#5AE897">github:</span> outpark</li>
-  <li><span class='green' style="color:#5AE897">E-mail:</span> sp3005@nyu.edu</li>
-  <br>
-  <li><span class='yellow' style="color:#F1D35C">Education:</span> New York University</li>
-  <li><span class='yellow' style="color:#F1D35C">Department:</span> College of Arts and Science</li>
-  <li><span class='yellow' style="color:#F1D35C">Field of Study:</span> Economics and Computer Science</li>
-  <br>
-  <li><span class='blue' style="color:#5695BF">Languages:</span> Korean, English, and Python</li>
-     
+---
+layout: index
+---
+
+<ul class="posts">
+  {% for post in site.posts %}
+  <li>
+    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
 </ul>
-</body>

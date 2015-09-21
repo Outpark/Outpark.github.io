@@ -1,0 +1,26 @@
+title:            outpark
+description:      Martin's blog
+url:              # Site url.
+signoff:          Seongsoon Park
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         About
+    url:          /about
+  - name:         Post
+    url:          /
+    external:     false
+  - name:         LinkedIn
+    url:          https://www.linkedin.com/pub/seongsoon-park/105/1b7/118
+    external:     true
+  - name:         GitHub
+    url:          https://github.com/outpark
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
