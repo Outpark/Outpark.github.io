@@ -1,10 +1,9 @@
 ---
 layout: post
+title: Up and running, my blog
+date: 2015-09-20T20:10:10.000Z
+categories: update
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<img src="/images/fulls/scribble.jpg" class="fit image"> Finally setted up my blog. It took me a great deal of time to figure out which website generator to use. I've had some expriences with WordPress which I am using as a travelog and a diary. But I wanted something lighter, static, and simple that I can put up on GitHub. Hexo and Jekyll seemed to be the perfect match. Well then, which one between them?
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
-
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
-
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+Similar aspects are shared, such as Markdown support. It is great Hexo is built with Node.js which I am more familiar with than Ruby. However due to its recent birth, Hexo, at the moment, possesses fewer themes available and has a smaller community than Jekyll. Plus, I found this nice and simple theme made by [muan](https://github.com/muan). So, for now, at least, I'm going with Jekyll. 

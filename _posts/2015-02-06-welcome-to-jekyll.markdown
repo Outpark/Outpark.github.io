@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Suspendisse pellentesque
-date: 2015-02-06T14:37:44.000Z
+title: Rock and Code!
+date: 2015-09-30T22:37:44.000Z
 categories: update
 ---
 
-<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien ac magna posuere imperdiet eget id nisi.
+<img src="/images/fulls/rock.jpg" class="fit image"> Rock & Code Developer Weekend Contest happened last weekend. Although I am still recovirng from those sleepless nights, I am also happy that I have successfully managed my first hackathon. Yes, my first hackathon. Much emphasis on that. 
 
-Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.
+Since it was my first one, I got anxious and all. What to bring, what to prepare, what I should know before start, I just couldn't stop worrying. But at the end of the day, I found myself just purely enjoying the event! The food was amazing, the people were so nice, my team was awesome, and most of all, I was making something cool. So why not just have fun and code. 
 
-Maecenas posuere sodales magna id tincidunt. Nunc sapien ipsum, efficitur et mauris nec, tristique gravida leo. Donec at bibendum lectus, sit amet fringilla risus. Donec et justo mi. In risus risus, faucibus eget eros eget, tincidunt posuere purus. Maecenas porta lacus metus, nec varius enim egestas ac. In hac habitasse platea dictumst. Nullam a nisi nulla. Nam vel varius enim, sit amet fringilla massa. Proin vel aliquam felis, quis scelerisque arcu.
-
-Sed consequat mi id malesuada efficitur. Vestibulum efficitur tortor ut dictum porta. Morbi dapibus viverra risus, et laoreet lorem commodo et. Donec hendrerit posuere magna a efficitur. Nullam euismod eget nulla eget iaculis. Donec porttitor faucibus porta. Morbi et risus dolor. Mauris venenatis sem id neque hendrerit ultrices.
+Our project was a foreign music streaming web app. After all the whole event was about music and the industry with it, so we had the idea to design a streaming app for foreing music that isn't really spotlighted here in the US and for those who would like some foreign music. It didn't go all sweetly and merriely. Bring in d3.js features to our app was a pain. None of us had a deep understanding or previous experiences with d3.js but it still seemed to have some great animated features that we could implement. Along the way we even had to redesign the main streaming page. But at the end of the day, we won the 3rd place, which was toally unexpected and went home like a great warrior. Will I be attending more hackathons in the future? Absolutely. 
