@@ -2,7 +2,7 @@ name: Martin S. Park
 markdown: redcarpet
 pygments: true
 github: https://www.github.com/outpark
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+about: I am a student developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
 urls:
     - text: github
       url: https://github.com/outpark
@@ -13,4 +13,4 @@ urls:
     - text: Resume
       url: https://docs.google.com/document/d/1tBjEdzfeO5hM5OBdj78hetHmAP8xRv6WFAGWfjgGK7A/edit?usp=sharing
     
-baseurl: '/simplygrey-jekyll'
+baseurl: 'http://outpark.github.io/'
