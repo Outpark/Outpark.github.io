@@ -1,16 +1,25 @@
-name: Martin S. Park
-markdown: redcarpet
-pygments: true
-github: https://www.github.com/outpark
-about: I am a student developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
-urls:
-    - text: github
-      url: https://github.com/outpark
-    - text: twitter
-      url: https://twitter.com/outpark
-    - text: LinkedIn
-      url: https://www.linkedin.com/in/seongsoonpark
-    - text: Resume
-      url: https://docs.google.com/document/d/1tBjEdzfeO5hM5OBdj78hetHmAP8xRv6WFAGWfjgGK7A/edit?usp=sharing
-    
-baseurl: /outpark9
+# Site settings
+
+title: martinpark # Title of your site
+email: sp3005@nyu.edu # Your contant email
+
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://outpark.github.io" # the base hostname & protocol for your site
+
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
+
+twitter_username:     outpark  # Replace this with your Twitter username
+github_username:      outpark  # Replace this with your GitHub username
+linkedin_username:    seongsoonpark  # Replace this with your LinkedIn username
+# google_plus_username: example  # Replace this with your Google+ username
+facebook_username:    martin.s.park.9  # Replace this with your Facebook username
+# dribbble_username:    example  # Replace this with your Dribbble username
+
+# Build settings
+markdown: kramdown
