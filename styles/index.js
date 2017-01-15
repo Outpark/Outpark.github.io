@@ -6,15 +6,25 @@ var hide_lists = function(cb) {
 };
 var show_projects = function() {
     $('#posts-btn').removeClass('disabled');
-    $('#posts').fadeOut(300, function() {
+    $('#about-btn').removeClass('disabled');
+    $('#posts', '#about').fadeOut(300, function() {
         $('#projects').fadeIn(300)
     });
     $('#projects-btn').addClass('disabled')
 };
 var show_posts = function() {
     $('#projects-btn').removeClass('disabled');
-    $('#projects').fadeOut(function() {
+    $('#about-btn').removeClass('disabled');
+    $('#projects', '#about').fadeOut(function() {
         $('#posts').fadeIn(300)
     });
     $('#posts-btn').addClass('disabled')
+};
+var show_about = function() {
+    $('#projects-btn').removeClass('disabled');
+    $('#posts-btn').removeClass('disabled');
+    $('#projects', '#posts').fadeOut(function() {
+        $('#about').fadeIn(300)
+    });
+    $('#about-btn').addClass('disabled')
 };

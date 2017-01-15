@@ -23,6 +23,7 @@ disqus_shortname:
 isolang: en
 close_btn: "Close"
 home_btn: "Home"
+about_btn: "About"
 projects_btn: "Projects"
 posts_btn: "Posts"
 imprint_btn: "Imprint"

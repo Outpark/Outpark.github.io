@@ -1,9 +1,6 @@
-- name: project 1
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 2
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 3
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+- name: NYU Forest
+  link: "http://www.nyuforest.com/"
+  description: "NYU Forest is a community site for Korean International students at NYU. Users can post, comment and vote interesting posts. Node.js, MongoDB and Angular 1 are  used."
+- name: Rountables
+  link: "http://rountables.com/"
+  description: "Roundtables is a social network service for the people looking to join or create teams for any purpose. Users can create study groups, project teams and communicate inside the team board. Node.js, MongoDB and React.js are used."
