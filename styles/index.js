@@ -25,7 +25,7 @@ var show_posts = function() {
 var show_about = function() {
     $('#projects-btn').removeClass('disabled');
     $('#posts-btn').removeClass('disabled');
-    $('#projects #posts').fadeOut(function() {
+    $('#projects, #posts').fadeOut(function() {
         $('#abouts').fadeIn(300)
     });
     $('#abouts-btn').addClass('disabled')
