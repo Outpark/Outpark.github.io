@@ -5,7 +5,7 @@ location: "New York, New York"
 email: sp3005@nyu.edu
 baseurl: "/material-theme"
 
-url: "http://outpark.github.io" # replace by your site's url
+url: "http://outpark.github.io/" # replace by your site's url
 twitter_username: outpark
 github_username:  outpark
 author: "Martin Park"
