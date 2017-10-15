@@ -1,6 +1,6 @@
 - name: Rescue
   link: "http://i6.cims.nyu.edu/~sp3005/interactive/assignment03/index.html"
-  description: "Rescue is a colorful game that relaxes you from daily stress. It plays a beautiful stream of songs along with satisfying sound effects. It was originated from an idea to create a mind relaxing game that I can play without stress, but also something I wouldn't want quit so easily. As the "Ghost" rescues other souls, it absorbs their colors. Rescuing dark souls will eventually turn the Ghost to pitch black. Brighter ones, make it brighter."
+  description: "Rescue is a colorful game that relaxes you from daily stress. It plays a beautiful stream of songs along with satisfying sound effects. It was originated from an idea to create a mind relaxing game that I can play without stress, but also something I wouldn't want quit so easily. As the 'Ghost' rescues other souls, it absorbs their colors. Rescuing dark souls will eventually turn the Ghost to pitch black. Brighter ones, make it brighter."
 - name: NYU Forest
   link: "http://www.nyuforest.com/"
   description: "NYU Forest is a community site for Korean International students at NYU. Users can post, comment and vote interesting posts. Node.js, MongoDB and Angular 1 are  used."
