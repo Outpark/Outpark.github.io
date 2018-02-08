@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="../p5/p5.min.js"></script>
+    <script src="../p5/addons/p5.dom.min.js"></script>
+    <script src="../p5/addons/p5.sound.min.js"></script>
+    <script src="sketch.js"></script>
+    <style> body {padding: 0; margin: 0;} </style>
+  </head>
+  <body>
+  	<form>
+      <button id="move" name="move" onclick="clickmove();return false;">move</button>
+      <button id="stop" name="stop" onclick="clickstop();return false;">stop</button>
+      <button id="change" name="change" onclick="clickchange();return false;">change</button>
+      <input type="range" id="ghostSize" name="ghostSize" min="10" max="100" step="1" value="40" oninput="updateSize(this);"">
+      <a href="../document03/index.html">Documentation</a>
+    </form>
+
+  </body>
+</html>
