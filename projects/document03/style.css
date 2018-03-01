@@ -1,0 +1,19 @@
+body {
+	font-family: 'Indie Flower', cursive;
+}
+.line {
+	width: 100%;
+}
+.main-container {
+	text-align: center;
+}
+
+.description {
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+.img-container {
+	width: 100%;
+}
